@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Master</string>
+    <string name="nav_scanner">Scaner</string>
+    <string name="nav_create">Creează</string>
+    <string name="history_title">Istoric</string>
+    <string name="history_clear">Șterge</string>
+    <string name="history_empty">Istoricul este gol</string>
+    <string name="type_scanned">Scanat</string>
+    <string name="type_created">Creat</string>
+    <string name="settings_title">Setări</string>
+    <string name="settings_dark_theme">Temă întunecată</string>
+    <string name="settings_theme_on">Activată</string>
+    <string name="settings_theme_off">Dezactivată</string>
+    <string name="settings_save_history">Salvare istoric</string>
+    <string name="settings_save_history_desc">Înregistrează acțiunile în memorie</string>
+    <string name="permission_camera_denied">Accesul la cameră este necesar</string>
+    <string name="scan_result_title">Rezultat:</string>
+    <string name="scan_wifi_title">Rețea: %1$s</string>
+    <string name="scan_wifi_password">Parolă: %1$s</string>
+    <string name="scan_wifi_no_password">lipsește</string>
+    <string name="btn_copy">Copie</string>
+    <string name="btn_open">Deschide</string>
+    <string name="btn_wifi">WiFi</string>
+    <string name="toast_copied">Copiat</string>
+    <string name="toast_no_qr">Codul QR nu a fost găsit</string>
+    <string name="toast_permissions_denied">Permisiuni respinse</string>
+    <string name="toast_wifi_connected">Conectat la %1$s</string>
+    <string name="gen_placeholder">Introduceți link sau text</string>
+    <string name="gen_button_create">Creează cod QR</string>
+    <string name="gen_result_label">Conținut:</string>
+    <string name="gen_btn_download">Descarcă</string>
+    <string name="gen_btn_copy">Copie</string>
+    <string name="toast_gen_copied">Imagine copiată!</string>
+    <string name="toast_gen_copy_error">Eroare la copiere</string>
+    <string name="toast_gen_saved">Salvat în galerie</string>
+    <string name="toast_gen_save_error">Eroare la salvare</string>
+
+    <string name="settings_about">Despre aplicație</string>
+    <string name="about_version">Versiune</string>
+    <string name="about_developer">Dezvoltator</string>
+    <string name="about_source_code">GitHub</string>
+    <string name="about_dev_site">Site Web</string>
+    <string name="about_description">Un instrument rapid și convenabil pentru scanarea și crearea codurilor QR.</string>
+</resources>

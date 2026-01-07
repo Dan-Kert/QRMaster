@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Master</string>
+    <string name="nav_scanner">ماسح ضوئي</string>
+    <string name="nav_create">إنشاء</string>
+    <string name="history_title">السجل</string>
+    <string name="history_clear">مسح</string>
+    <string name="history_empty">السجل فارغ</string>
+    <string name="type_scanned">ممسوح ضوئياً</string>
+    <string name="type_created">تم إنشاؤه</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_dark_theme">المظهر الداكن</string>
+    <string name="settings_theme_on">مفعل</string>
+    <string name="settings_theme_off">معطل</string>
+    <string name="settings_save_history">حفظ السجل</string>
+    <string name="settings_save_history_desc">تسجيل الإجراءات في الذاكرة</string>
+    <string name="permission_camera_denied">مطلوب الوصول إلى الكاميرا</string>
+    <string name="scan_result_title">النتيجة:</string>
+    <string name="scan_wifi_title">الشبكة: %1$s</string>
+    <string name="scan_wifi_password">كلمة المرور: %1$s</string>
+    <string name="scan_wifi_no_password">غير موجود</string>
+    <string name="btn_copy">نسخ</string>
+    <string name="btn_open">فتح</string>
+    <string name="btn_wifi">WiFi</string>
+    <string name="toast_copied">تم النسخ</string>
+    <string name="toast_no_qr">لم يتم العثور على رمز QR</string>
+    <string name="toast_permissions_denied">تم رفض الأذونات</string>
+    <string name="toast_wifi_connected">تم الاتصال بـ %1$s</string>
+    <string name="gen_placeholder">أدخل الرابط أو النص</string>
+    <string name="gen_button_create">إنشاء رمز QR</string>
+    <string name="gen_result_label">المحتوى:</string>
+    <string name="gen_btn_download">تحميل</string>
+    <string name="gen_btn_copy">نسخ</string>
+    <string name="toast_gen_copied">تم نسخ الصورة!</string>
+    <string name="toast_gen_copy_error">خطأ في النسخ</string>
+    <string name="toast_gen_saved">تم الحفظ في المعرض</string>
+    <string name="toast_gen_save_error">خطأ في الحفظ</string>
+
+    <string name="settings_about">حول التطبيق</string>
+    <string name="about_version">الإصدار</string>
+    <string name="about_developer">المطور</string>
+    <string name="about_source_code">GitHub</string>
+    <string name="about_dev_site">الموقع الإلكتروني</string>
+    <string name="about_description">أداة سريعة ومريحة لمسح وإنشاء رموز QR.</string>
+</resources>

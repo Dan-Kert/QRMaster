@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Master</string>
+    <string name="nav_scanner">Escáner</string>
+    <string name="nav_create">Crear</string>
+    <string name="history_title">Historial</string>
+    <string name="history_clear">Limpiar</string>
+    <string name="history_empty">El historial está vacío</string>
+    <string name="type_scanned">Escaneado</string>
+    <string name="type_created">Creado</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_dark_theme">Tema oscuro</string>
+    <string name="settings_theme_on">Activado</string>
+    <string name="settings_theme_off">Desactivado</string>
+    <string name="settings_save_history">Guardar historial</string>
+    <string name="settings_save_history_desc">Registrar acciones en la memoria</string>
+    <string name="permission_camera_denied">Se requiere acceso a la cámara</string>
+    <string name="scan_result_title">Resultado:</string>
+    <string name="scan_wifi_title">Red: %1$s</string>
+    <string name="scan_wifi_password">Contraseña: %1$s</string>
+    <string name="scan_wifi_no_password">ninguna</string>
+    <string name="btn_copy">Copia</string>
+    <string name="btn_open">Abrir</string>
+    <string name="btn_wifi">WiFi</string>
+    <string name="toast_copied">Copiado</string>
+    <string name="toast_no_qr">No se encontró código QR</string>
+    <string name="toast_permissions_denied">Permisos denegados</string>
+    <string name="toast_wifi_connected">Conectado a %1$s</string>
+    <string name="gen_placeholder">Ingrese enlace o texto</string>
+    <string name="gen_button_create">Crear código QR</string>
+    <string name="gen_result_label">Contenido:</string>
+    <string name="gen_btn_download">Descargar</string>
+    <string name="gen_btn_copy">Copia</string>
+    <string name="toast_gen_copied">¡Imagen copiada!</string>
+    <string name="toast_gen_copy_error">Error al copiar</string>
+    <string name="toast_gen_saved">Guardado en la galería</string>
+    <string name="toast_gen_save_error">Error al guardar</string>
+
+    <string name="settings_about">Acerca de la app</string>
+    <string name="about_version">Versión</string>
+    <string name="about_developer">Desarrollador</string>
+    <string name="about_source_code">GitHub</string>
+    <string name="about_dev_site">Sitio Web</string>
+    <string name="about_description">Una herramienta rápida y cómoda para escanear y crear códigos QR.</string>
+</resources>

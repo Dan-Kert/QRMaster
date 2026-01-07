@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Master</string>
+    <string name="nav_scanner">扫描</string>
+    <string name="nav_create">创建</string>
+    <string name="history_title">历史</string>
+    <string name="history_clear">清除</string>
+    <string name="history_empty">历史为空</string>
+    <string name="type_scanned">已扫描</string>
+    <string name="type_created">已创建</string>
+    <string name="settings_title">设置</string>
+    <string name="settings_dark_theme">深色模式</string>
+    <string name="settings_theme_on">已开启</string>
+    <string name="settings_theme_off">已关闭</string>
+    <string name="settings_save_history">保存历史</string>
+    <string name="settings_save_history_desc">将操作记录在内存中</string>
+    <string name="permission_camera_denied">需要相机访问权限</string>
+    <string name="scan_result_title">结果：</string>
+    <string name="scan_wifi_title">网络：%1$s</string>
+    <string name="scan_wifi_password">密码：%1$s</string>
+    <string name="scan_wifi_no_password">无</string>
+    <string name="btn_copy">复制</string>
+    <string name="btn_open">打开</string>
+    <string name="btn_wifi">WiFi</string>
+    <string name="toast_copied">已复制</string>
+    <string name="toast_no_qr">未找到二维码</string>
+    <string name="toast_permissions_denied">权限被拒绝</string>
+    <string name="toast_wifi_connected">已连接至 %1$s</string>
+    <string name="gen_placeholder">输入链接或文本</string>
+    <string name="gen_button_create">创建二维码</string>
+    <string name="gen_result_label">内容：</string>
+    <string name="gen_btn_download">下载</string>
+    <string name="gen_btn_copy">复制</string>
+    <string name="toast_gen_copied">图片已复制！</string>
+    <string name="toast_gen_copy_error">复制出错</string>
+    <string name="toast_gen_saved">已保存到相册</string>
+    <string name="toast_gen_save_error">保存出错</string>
+
+    <string name="settings_about">关于应用</string>
+    <string name="about_version">版本</string>
+    <string name="about_developer">开发者</string>
+    <string name="about_source_code">GitHub</string>
+    <string name="about_dev_site">网站</string>
+    <string name="about_description">一款快速便捷的二维码扫描和生成工具。</string>
+</resources>

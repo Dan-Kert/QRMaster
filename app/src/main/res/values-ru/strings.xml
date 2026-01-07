@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QR Master</string>
+    <string name="about_dev_site">Сайт автора</string>
+
+    <string name="nav_scanner">Сканер</string>
+    <string name="nav_create">Создать</string>
+
+    <string name="history_title">История</string>
+    <string name="history_clear">Очистить</string>
+    <string name="history_empty">История пуста</string>
+    <string name="type_scanned">Сканировано</string>
+    <string name="type_created">Создано</string>
+
+    <string name="settings_title">Настройки</string>
+    <string name="settings_dark_theme">Тёмная тема</string>
+    <string name="settings_theme_on">Включена</string>
+    <string name="settings_theme_off">Выключена</string>
+    <string name="settings_save_history">Сохранять историю</string>
+    <string name="settings_save_history_desc">Записывать действия в память</string>
+
+    <string name="permission_camera_denied">Нужен доступ к камере</string>
+
+    <string name="scan_result_title">Результат:</string>
+    <string name="scan_wifi_title">Сеть: %1$s</string>
+    <string name="scan_wifi_password">Пароль: %1$s</string>
+    <string name="scan_wifi_no_password">отсутствует</string>
+    <string name="btn_copy">Копия</string>
+    <string name="btn_open">Открыть</string>
+    <string name="btn_wifi">WiFi</string>
+    <string name="toast_copied">Скопировано</string>
+    <string name="toast_no_qr">QR-код не найден</string>
+    <string name="toast_permissions_denied">Разрешения отклонены</string>
+    <string name="toast_wifi_connected">Подключено к %1$s</string>
+
+
+    <string name="gen_placeholder">Введите ссылку или текст</string>
+    <string name="gen_button_create">Создать QR-код</string>
+    <string name="gen_result_label">Содержимое:</string>
+    <string name="gen_btn_download">Скачать</string>
+    <string name="gen_btn_copy">Копия</string>
+    <string name="toast_gen_copied">Изображение скопировано!</string>
+    <string name="toast_gen_copy_error">Ошибка копирования</string>
+    <string name="toast_gen_saved">Сохранено в галерею</string>
+    <string name="toast_gen_save_error">Ошибка сохранения</string>
+
+    <string name="settings_about">О приложении</string>
+    <string name="about_version">Версия</string>
+    <string name="about_developer">Разработчик</string>
+    <string name="about_source_code">GitHub</string>
+    <string name="about_description">Быстрый и удобный инструмент для сканирования и создания QR-кодов.</string>
+</resources>
