@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://www.android.com)
 
 ---
-
+![App Screenshot](app/src/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg)
 ## 🚀 Key Features
 
 * **Smart WiFi Auto-Connect:** Automatically detects WiFi QR codes and connects you to the network.
